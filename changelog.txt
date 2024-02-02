@@ -1,8 +1,20 @@
 ---------------------------------------------------------------------------------------------------
-Version: 2.0.11
-Date: ?
+Version: 2.0.13
+Date: 2024-1-23
   Changes:
-    - Adjusted stack size of vanilla paving from 100 to 1000
+    - Fixed menu simulations after the inserter change
+---------------------------------------------------------------------------------------------------
+Version: 2.0.12
+Date: 2024-1-17
+  Changes:
+    - Fixed that asphalt tiles would disappear when upgrading to 2.0.11.
+    - Fixed that coal would disappear when upgrading to 2.0.11.
+    - Adjusted mod thumbnail
+---------------------------------------------------------------------------------------------------
+Version: 2.0.11
+Date: 2024-1-8
+  Changes:
+    - Adjusted stack size of brick, concrete, hazard concrete, refined concrete and hazard refined concrete from 100 to 1000
     - Improved circuit connector placement for 30kL tank (credit: JStMorgan)
     - Fixed Asphalt and Coal tiles replacing dark vanilla Lab tiles (https://github.com/pyanodon/pybugreports/issues/321) (credit: JStMorgan)
     - added decentralised PyPP cache file
